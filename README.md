@@ -1,7 +1,12 @@
-I am a frontend developer with experience in building amazing experiences in frontend web technologies. Topics can range from Javascript, React JS, Next JS, Tailwind, Ant design, Sass, Rest, GraphQl, Zustand, Redux Toolkit, Storybook and many more.
+👾 
 
-Familiar with software development life cycle (agile), Object-oriented programming, MVC, Wireframing, UX in design, and Software versioning.
+Hey, I’m Mudasir H.
 
-Previously @ JMM technologies. Currently @ Metator, Building the metaverse.
+I’m a digital web product developer, currently living in Islamabad.
 
-Have anything in mind feel free to reach out. [mudasir.ee@gmail.com](mailto:mudasir.ee@gmail.com)
+I create mobile-first web experiences, strive to push the boundaries and develop meaningful, performant, and responsive web experiences to reach the goals of my client and users of the end product.
+
+I think and speak mainly NODE, REACT, MONGO DB, and WEB3.
+
+[Email](mailto:mudasir.ee@gmail.com) <br />
+[@mh_jsx on Twitter &rarr;](https://twitter.com/mh_jsx)
